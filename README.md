@@ -1,2 +1,2 @@
-# security
-Best Effort Team Repo about cybersecurity
+# Hacking
+Best Effort Team Repo about hacking
